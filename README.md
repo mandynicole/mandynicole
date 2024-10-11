@@ -1,6 +1,8 @@
-### hi, i'm mandy &mdash; a designer and developer currently residing in the pacific northwest
+### hi, i'm mandy &mdash; a design engineer currently residing in the pacific northwest
 
-elsewhere:
+> i don't use github for personal projects anymore, so you might not see much activity here
+
+find me elsewhere:
 - [codepen](https://codepen.io/mandynicole)
 - [www](https://mandynicole.com)
 - [gitlab](https://gitlab.com/mandynicole)
