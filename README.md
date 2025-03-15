@@ -1,19 +1,19 @@
 ---
 ###### who i am &mdash;
 
-Hey, I'm Mandy! I'm a designer and developer that loves crafting interfaces and design systems for interactive mediums. My work focuses on accessible, performant, and intuitive experiences.
+UI/UX Design Engineer striving for a more beautiful, sustainable, and human-centered web.
 
 ---
 ###### what i do &mdash;
-Design Engineering (HTML/CSS/JS), Product Design, UI/UX Design, Visual Art
+
+HTML/CSS/JS, Production Implementation, Rapid Prototyping, Product Design, Visual Design, Accessibility
 
 ---
-###### related socials &mdash;
+###### sites + socials &mdash;
 
+- [mandynicole.com](https://mandynicole.com)
 - [codepen](https://codepen.io/mandynicole)
-- [layers.to](https://layers.to/mandynicole)
-- [read.cv](https://read.cv/mandynicole)
-- [gitlab](https://gitlab.com/mandynicole)
+- [dribbble](http://dribbble.com/mandynicole)
+- <a rel="me" href="https://front-end.social/@mandy">mastodon</a>
 - [linkedin](https://www.linkedin.com/in/mandynicole/)
-- <a rel="me" href="https://front-end.social/@mandy">front-end.social</a>
 ---
